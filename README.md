@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DMRios (douglas)
 - 👀 I’m interested in ... learn/estudar
-- 🌱 I’m currently learning ... html
+- 🌱 I’m currently learning ... Python = str(input('let's study !))
 - 💞️ I’m looking to collaborate on .... everything within my reach
 -
 - 📫 How to reach me ...meu email - dmarquesnewworld@gmail.com
